@@ -9,7 +9,7 @@ def countdown(int)
 end
 
 def countdown_with_sleep
-  sleep(countdown,num)
+ 
 end
 
 countdown(10)
